@@ -1,0 +1,10 @@
+@media (max-width: 1380px) {
+    .card.show {
+        transform: translateY(-210px);
+        margin-top: 300px;
+    }
+    
+    .wish.show {
+        transform: translateY(210px);
+    }
+}
